@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{136EFA9C-CECB-0171-B2A2-8CA4EB6B3A0F}") = "NewChat", "Assembly-CSharp.csproj", "{36CB0A97-F339-5437-A82F-7F3E6B8AE7B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CB0A97-F339-5437-A82F-7F3E6B8AE7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CB0A97-F339-5437-A82F-7F3E6B8AE7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CB0A97-F339-5437-A82F-7F3E6B8AE7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CB0A97-F339-5437-A82F-7F3E6B8AE7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
